@@ -1,4 +1,4 @@
-name: your-workflow-name
+name: cml-test
 on: [push]
 jobs:
   run:
